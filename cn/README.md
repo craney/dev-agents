@@ -20,23 +20,23 @@
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [backend-architect](../backend-architect.md) | opus | RESTful API设计、微服务边界、数据库架构 |
-| [frontend-developer](../frontend-developer.md) | sonnet | React组件、响应式布局、客户端状态管理 |
-| [graphql-architect](../graphql-architect.md) | opus | GraphQL架构、解析器、联邦架构 |
-| [architect-reviewer](../architect-review.md) | opus | 架构一致性分析和模式验证 |
-| [cloud-architect](../cloud-architect.md) | opus | AWS/Azure/GCP基础设施设计和成本优化 |
-| [hybrid-cloud-architect](../hybrid-cloud-architect.md) | opus | 跨云和本地环境的多云策略 |
-| [kubernetes-architect](../kubernetes-architect.md) | opus | 基于Kubernetes和GitOps的云原生基础设施 |
+| [backend-architect](backend-architect.md) | opus | RESTful API设计、微服务边界、数据库架构 |
+| [frontend-developer](frontend-developer.md) | sonnet | React组件、响应式布局、客户端状态管理 |
+| [graphql-architect](graphql-architect.md) | opus | GraphQL架构、解析器、联邦架构 |
+| [architect-reviewer](architect-review.md) | opus | 架构一致性分析和模式验证 |
+| [cloud-architect](cloud-architect.md) | opus | AWS/Azure/GCP基础设施设计和成本优化 |
+| [hybrid-cloud-architect](hybrid-cloud-architect.md) | opus | 跨云和本地环境的多云策略 |
+| [kubernetes-architect](kubernetes-architect.md) | opus | 基于Kubernetes和GitOps的云原生基础设施 |
 
 #### UI/UX与移动开发
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [ui-ux-designer](../ui-ux-designer.md) | sonnet | 界面设计、线框图、设计系统 |
-| [ui-visual-validator](../ui-visual-validator.md) | sonnet | 视觉回归测试和UI验证 |
-| [mobile-developer](../mobile-developer.md) | sonnet | React Native和Flutter应用开发 |
-| [ios-developer](../ios-developer.md) | sonnet | 使用Swift/SwiftUI的原生iOS开发 |
-| [flutter-expert](../flutter-expert.md) | sonnet | 高级Flutter开发与状态管理 |
+| [ui-ux-designer](ui-ux-designer.md) | sonnet | 界面设计、线框图、设计系统 |
+| [ui-visual-validator](ui-visual-validator.md) | sonnet | 视觉回归测试和UI验证 |
+| [mobile-developer](mobile-developer.md) | sonnet | React Native和Flutter应用开发 |
+| [ios-developer](ios-developer.md) | sonnet | 使用Swift/SwiftUI的原生iOS开发 |
+| [flutter-expert](flutter-expert.md) | sonnet | 高级Flutter开发与状态管理 |
 
 ### 编程语言
 
@@ -44,37 +44,37 @@
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [c-pro](../c-pro.md) | sonnet | 具有内存管理和OS接口的系统编程 |
-| [cpp-pro](../cpp-pro.md) | sonnet | 现代C++与RAII、智能指针、STL算法 |
-| [rust-pro](../rust-pro.md) | sonnet | 具有所有权模式的内存安全系统编程 |
-| [golang-pro](../golang-pro.md) | sonnet | 使用goroutines和channels的并发编程 |
+| [c-pro](c-pro.md) | sonnet | 具有内存管理和OS接口的系统编程 |
+| [cpp-pro](cpp-pro.md) | sonnet | 现代C++与RAII、智能指针、STL算法 |
+| [rust-pro](rust-pro.md) | sonnet | 具有所有权模式的内存安全系统编程 |
+| [golang-pro](golang-pro.md) | sonnet | 使用goroutines和channels的并发编程 |
 
 #### Web与应用开发
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [javascript-pro](../javascript-pro.md) | sonnet | 现代JavaScript与ES6+、异步模式、Node.js |
-| [typescript-pro](../typescript-pro.md) | sonnet | 高级TypeScript与类型系统和泛型 |
-| [python-pro](../python-pro.md) | sonnet | 具有高级功能和优化的Python开发 |
-| [ruby-pro](../ruby-pro.md) | sonnet | Ruby元编程、Rails模式、gem开发 |
-| [php-pro](../php-pro.md) | sonnet | 现代PHP与框架和性能优化 |
+| [javascript-pro](javascript-pro.md) | sonnet | 现代JavaScript与ES6+、异步模式、Node.js |
+| [typescript-pro](typescript-pro.md) | sonnet | 高级TypeScript与类型系统和泛型 |
+| [python-pro](python-pro.md) | sonnet | 具有高级功能和优化的Python开发 |
+| [ruby-pro](ruby-pro.md) | sonnet | Ruby元编程、Rails模式、gem开发 |
+| [php-pro](php-pro.md) | sonnet | 现代PHP与框架和性能优化 |
 
 #### 企业级与JVM
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [java-pro](../java-pro.md) | sonnet | 现代Java与流、并发、JVM优化 |
-| [scala-pro](../scala-pro.md) | sonnet | 企业级Scala与函数式编程和分布式系统 |
-| [csharp-pro](../csharp-pro.md) | sonnet | C#开发与.NET框架和模式 |
+| [java-pro](java-pro.md) | sonnet | 现代Java与流、并发、JVM优化 |
+| [scala-pro](scala-pro.md) | sonnet | 企业级Scala与函数式编程和分布式系统 |
+| [csharp-pro](csharp-pro.md) | sonnet | C#开发与.NET框架和模式 |
 
 #### 专业平台
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [elixir-pro](../elixir-pro.md) | sonnet | Elixir与OTP模式和Phoenix框架 |
-| [unity-developer](../unity-developer.md) | sonnet | Unity游戏开发和优化 |
-| [minecraft-bukkit-pro](../minecraft-bukkit-pro.md) | sonnet | Minecraft服务器插件开发 |
-| [sql-pro](../sql-pro.md) | sonnet | 复杂SQL查询和数据库优化 |
+| [elixir-pro](elixir-pro.md) | sonnet | Elixir与OTP模式和Phoenix框架 |
+| [unity-developer](unity-developer.md) | sonnet | Unity游戏开发和优化 |
+| [minecraft-bukkit-pro](minecraft-bukkit-pro.md) | sonnet | Minecraft服务器插件开发 |
+| [sql-pro](sql-pro.md) | sonnet | 复杂SQL查询和数据库优化 |
 
 ### 基础设施与运维
 
@@ -82,24 +82,24 @@
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [devops-troubleshooter](../devops-troubleshooter.md) | sonnet | 生产环境调试、日志分析、部署故障排除 |
-| [deployment-engineer](../deployment-engineer.md) | sonnet | CI/CD流水线、容器化、云部署 |
-| [terraform-specialist](../terraform-specialist.md) | opus | 基础设施即代码与Terraform模块和状态管理 |
-| [dx-optimizer](../dx-optimizer.md) | sonnet | 开发者体验优化和工具改进 |
+| [devops-troubleshooter](devops-troubleshooter.md) | sonnet | 生产环境调试、日志分析、部署故障排除 |
+| [deployment-engineer](deployment-engineer.md) | sonnet | CI/CD流水线、容器化、云部署 |
+| [terraform-specialist](terraform-specialist.md) | opus | 基础设施即代码与Terraform模块和状态管理 |
+| [dx-optimizer](dx-optimizer.md) | sonnet | 开发者体验优化和工具改进 |
 
 #### 数据库管理
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [database-optimizer](../database-optimizer.md) | opus | 查询优化、索引设计、迁移策略 |
-| [database-admin](../database-admin.md) | sonnet | 数据库操作、备份、复制、监控 |
+| [database-optimizer](database-optimizer.md) | opus | 查询优化、索引设计、迁移策略 |
+| [database-admin](database-admin.md) | sonnet | 数据库操作、备份、复制、监控 |
 
 #### 事件响应与网络
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [incident-responder](../incident-responder.md) | opus | 生产环境事件管理和解决 |
-| [network-engineer](../network-engineer.md) | sonnet | 网络调试、负载均衡、流量分析 |
+| [incident-responder](incident-responder.md) | opus | 生产环境事件管理和解决 |
+| [network-engineer](network-engineer.md) | sonnet | 网络调试、负载均衡、流量分析 |
 
 ### 质量保证与安全
 
@@ -107,29 +107,29 @@
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [code-reviewer](../code-reviewer.md) | opus | 专注安全性和生产可靠性的代码审查 |
-| [security-auditor](../security-auditor.md) | opus | 漏洞评估和OWASP合规性 |
-| [backend-security-coder](../backend-security-coder.md) | opus | 安全后端编码实践、API安全实现 |
-| [frontend-security-coder](../frontend-security-coder.md) | opus | XSS防护、CSP实现、客户端安全 |
-| [mobile-security-coder](../mobile-security-coder.md) | opus | 移动安全模式、WebView安全、生物识别认证 |
-| [architect-reviewer](../architect-review.md) | opus | 架构一致性和模式验证 |
+| [code-reviewer](code-reviewer.md) | opus | 专注安全性和生产可靠性的代码审查 |
+| [security-auditor](security-auditor.md) | opus | 漏洞评估和OWASP合规性 |
+| [backend-security-coder](backend-security-coder.md) | opus | 安全后端编码实践、API安全实现 |
+| [frontend-security-coder](frontend-security-coder.md) | opus | XSS防护、CSP实现、客户端安全 |
+| [mobile-security-coder](mobile-security-coder.md) | opus | 移动安全模式、WebView安全、生物识别认证 |
+| [architect-reviewer](architect-review.md) | opus | 架构一致性和模式验证 |
 
 #### 测试与调试
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [test-automator](../test-automator.md) | sonnet | 综合测试套件创建（单元、集成、端到端） |
-| [tdd-orchestrator](../tdd-orchestrator.md) | sonnet | 测试驱动开发方法论指导 |
-| [debugger](../debugger.md) | sonnet | 错误解决和测试失败分析 |
-| [error-detective](../error-detective.md) | sonnet | 日志分析和错误模式识别 |
+| [test-automator](test-automator.md) | sonnet | 综合测试套件创建（单元、集成、端到端） |
+| [tdd-orchestrator](tdd-orchestrator.md) | sonnet | 测试驱动开发方法论指导 |
+| [debugger](debugger.md) | sonnet | 错误解决和测试失败分析 |
+| [error-detective](error-detective.md) | sonnet | 日志分析和错误模式识别 |
 
 #### 性能与可观测性
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [performance-engineer](../performance-engineer.md) | opus | 应用程序性能分析和优化 |
-| [observability-engineer](../observability-engineer.md) | opus | 生产监控、分布式追踪、SLI/SLO管理 |
-| [search-specialist](../search-specialist.md) | haiku | 高级网络研究和信息综合 |
+| [performance-engineer](performance-engineer.md) | opus | 应用程序性能分析和优化 |
+| [observability-engineer](observability-engineer.md) | opus | 生产监控、分布式追踪、SLI/SLO管理 |
+| [search-specialist](search-specialist.md) | haiku | 高级网络研究和信息综合 |
 
 ### 数据与AI
 
@@ -137,27 +137,27 @@
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [data-scientist](../data-scientist.md) | opus | 数据分析、SQL查询、BigQuery操作 |
-| [data-engineer](../data-engineer.md) | sonnet | ETL流水线、数据仓库、流式架构 |
+| [data-scientist](data-scientist.md) | opus | 数据分析、SQL查询、BigQuery操作 |
+| [data-engineer](data-engineer.md) | sonnet | ETL流水线、数据仓库、流式架构 |
 
 #### 机器学习与AI
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [ai-engineer](../ai-engineer.md) | opus | LLM应用、RAG系统、提示流水线 |
-| [ml-engineer](../ml-engineer.md) | opus | ML流水线、模型服务、特征工程 |
-| [mlops-engineer](../mlops-engineer.md) | opus | ML基础设施、实验追踪、模型注册表 |
-| [prompt-engineer](../prompt-engineer.md) | opus | LLM提示优化和工程 |
+| [ai-engineer](ai-engineer.md) | opus | LLM应用、RAG系统、提示流水线 |
+| [ml-engineer](ml-engineer.md) | opus | ML流水线、模型服务、特征工程 |
+| [mlops-engineer](mlops-engineer.md) | opus | ML基础设施、实验追踪、模型注册表 |
+| [prompt-engineer](prompt-engineer.md) | opus | LLM提示优化和工程 |
 
 ### 文档与技术写作
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [docs-architect](../docs-architect.md) | opus | 综合技术文档生成 |
-| [api-documenter](../api-documenter.md) | sonnet | OpenAPI/Swagger规范和开发者文档 |
-| [reference-builder](../reference-builder.md) | haiku | 技术参考和API文档 |
-| [tutorial-engineer](../tutorial-engineer.md) | sonnet | 分步教程和教育内容 |
-| [mermaid-expert](../mermaid-expert.md) | sonnet | 图表创建（流程图、序列图、ERD） |
+| [docs-architect](docs-architect.md) | opus | 综合技术文档生成 |
+| [api-documenter](api-documenter.md) | sonnet | OpenAPI/Swagger规范和开发者文档 |
+| [reference-builder](reference-builder.md) | haiku | 技术参考和API文档 |
+| [tutorial-engineer](tutorial-engineer.md) | sonnet | 分步教程和教育内容 |
+| [mermaid-expert](mermaid-expert.md) | sonnet | 图表创建（流程图、序列图、ERD） |
 
 ### 业务与运营
 
@@ -165,48 +165,48 @@
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [business-analyst](../business-analyst.md) | sonnet | 指标分析、报告、KPI追踪 |
-| [quant-analyst](../quant-analyst.md) | opus | 金融建模、交易策略、市场分析 |
-| [risk-manager](../risk-manager.md) | sonnet | 投资组合风险监控和管理 |
+| [business-analyst](business-analyst.md) | sonnet | 指标分析、报告、KPI追踪 |
+| [quant-analyst](quant-analyst.md) | opus | 金融建模、交易策略、市场分析 |
+| [risk-manager](risk-manager.md) | sonnet | 投资组合风险监控和管理 |
 
 #### 营销与销售
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [content-marketer](../content-marketer.md) | sonnet | 博客文章、社交媒体、邮件活动 |
-| [sales-automator](../sales-automator.md) | haiku | 冷邮件、跟进、提案生成 |
+| [content-marketer](content-marketer.md) | sonnet | 博客文章、社交媒体、邮件活动 |
+| [sales-automator](sales-automator.md) | haiku | 冷邮件、跟进、提案生成 |
 
 #### 支持与法务
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [customer-support](../customer-support.md) | sonnet | 支持工单、FAQ回复、客户沟通 |
-| [hr-pro](../hr-pro.md) | opus | HR运营、政策、员工关系 |
-| [legal-advisor](../legal-advisor.md) | opus | 隐私政策、服务条款、法律文档 |
+| [customer-support](customer-support.md) | sonnet | 支持工单、FAQ回复、客户沟通 |
+| [hr-pro](hr-pro.md) | opus | HR运营、政策、员工关系 |
+| [legal-advisor](legal-advisor.md) | opus | 隐私政策、服务条款、法律文档 |
 
 ### 专业领域
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [blockchain-developer](../blockchain-developer.md) | sonnet | Web3应用、智能合约、DeFi协议 |
-| [payment-integration](../payment-integration.md) | sonnet | 支付处理器集成（Stripe、PayPal） |
-| [legacy-modernizer](../legacy-modernizer.md) | sonnet | 遗留代码重构和现代化 |
-| [context-manager](../context-manager.md) | haiku | 多代理上下文管理 |
+| [blockchain-developer](blockchain-developer.md) | sonnet | Web3应用、智能合约、DeFi协议 |
+| [payment-integration](payment-integration.md) | sonnet | 支付处理器集成（Stripe、PayPal） |
+| [legacy-modernizer](legacy-modernizer.md) | sonnet | 遗留代码重构和现代化 |
+| [context-manager](context-manager.md) | haiku | 多代理上下文管理 |
 
 ### SEO与内容优化
 
 | 代理 | 模型 | 描述 |
 |-------|-------|-------------|
-| [seo-content-auditor](../seo-content-auditor.md) | sonnet | 内容质量分析、E-E-A-T信号评估 |
-| [seo-meta-optimizer](../seo-meta-optimizer.md) | haiku | Meta标题和描述优化 |
-| [seo-keyword-strategist](../seo-keyword-strategist.md) | haiku | 关键词分析和语义变体 |
-| [seo-structure-architect](../seo-structure-architect.md) | haiku | 内容结构和架构标记 |
-| [seo-snippet-hunter](../seo-snippet-hunter.md) | haiku | 特色摘要格式化 |
-| [seo-content-refresher](../seo-content-refresher.md) | haiku | 内容新鲜度分析 |
-| [seo-cannibalization-detector](../seo-cannibalization-detector.md) | haiku | 关键词重叠检测 |
-| [seo-authority-builder](../seo-authority-builder.md) | sonnet | E-E-A-T信号分析 |
-| [seo-content-writer](../seo-content-writer.md) | sonnet | SEO优化内容创建 |
-| [seo-content-planner](../seo-content-planner.md) | haiku | 内容规划和主题集群 |
+| [seo-content-auditor](seo-content-auditor.md) | sonnet | 内容质量分析、E-E-A-T信号评估 |
+| [seo-meta-optimizer](seo-meta-optimizer.md) | haiku | Meta标题和描述优化 |
+| [seo-keyword-strategist](seo-keyword-strategist.md) | haiku | 关键词分析和语义变体 |
+| [seo-structure-architect](seo-structure-architect.md) | haiku | 内容结构和架构标记 |
+| [seo-snippet-hunter](seo-snippet-hunter.md) | haiku | 特色摘要格式化 |
+| [seo-content-refresher](seo-content-refresher.md) | haiku | 内容新鲜度分析 |
+| [seo-cannibalization-detector](seo-cannibalization-detector.md) | haiku | 关键词重叠检测 |
+| [seo-authority-builder](seo-authority-builder.md) | sonnet | E-E-A-T信号分析 |
+| [seo-content-writer](seo-content-writer.md) | sonnet | SEO优化内容创建 |
+| [seo-content-planner](seo-content-planner.md) | haiku | 内容规划和主题集群 |
 
 ## 模型配置
 
@@ -524,7 +524,7 @@ payment-integration → security-auditor → 验证实现
 
 ## 许可证
 
-MIT许可证 - 详见[LICENSE](../LICENSE)文件。
+MIT许可证 - 详见[LICENSE](../en/LICENSE)文件。
 
 ## 资源
 
